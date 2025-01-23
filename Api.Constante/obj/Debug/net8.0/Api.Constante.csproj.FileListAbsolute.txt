@@ -1,0 +1,11 @@
+C:\Users\vitor\OneDrive\Documentos\my challenges\API de Gerenciamento de Tarefas\ApiGerenciamentoTarefas\Api.Constante\bin\Debug\net8.0\Api.Constante.deps.json
+C:\Users\vitor\OneDrive\Documentos\my challenges\API de Gerenciamento de Tarefas\ApiGerenciamentoTarefas\Api.Constante\bin\Debug\net8.0\Api.Constante.dll
+C:\Users\vitor\OneDrive\Documentos\my challenges\API de Gerenciamento de Tarefas\ApiGerenciamentoTarefas\Api.Constante\bin\Debug\net8.0\Api.Constante.pdb
+C:\Users\vitor\OneDrive\Documentos\my challenges\API de Gerenciamento de Tarefas\ApiGerenciamentoTarefas\Api.Constante\obj\Debug\net8.0\Api.Constante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Documentos\my challenges\API de Gerenciamento de Tarefas\ApiGerenciamentoTarefas\Api.Constante\obj\Debug\net8.0\Api.Constante.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Documentos\my challenges\API de Gerenciamento de Tarefas\ApiGerenciamentoTarefas\Api.Constante\obj\Debug\net8.0\Api.Constante.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Documentos\my challenges\API de Gerenciamento de Tarefas\ApiGerenciamentoTarefas\Api.Constante\obj\Debug\net8.0\Api.Constante.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Documentos\my challenges\API de Gerenciamento de Tarefas\ApiGerenciamentoTarefas\Api.Constante\obj\Debug\net8.0\Api.Constante.dll
+C:\Users\vitor\OneDrive\Documentos\my challenges\API de Gerenciamento de Tarefas\ApiGerenciamentoTarefas\Api.Constante\obj\Debug\net8.0\refint\Api.Constante.dll
+C:\Users\vitor\OneDrive\Documentos\my challenges\API de Gerenciamento de Tarefas\ApiGerenciamentoTarefas\Api.Constante\obj\Debug\net8.0\Api.Constante.pdb
+C:\Users\vitor\OneDrive\Documentos\my challenges\API de Gerenciamento de Tarefas\ApiGerenciamentoTarefas\Api.Constante\obj\Debug\net8.0\ref\Api.Constante.dll

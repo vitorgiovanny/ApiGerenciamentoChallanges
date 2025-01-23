@@ -1,0 +1,15 @@
+C:\Users\vitor\OneDrive\Documentos\my challenges\API de Gerenciamento de Tarefas\ApiGerenciamentoTarefas\Api.Domain\bin\Debug\net8.0\Api.Domain.deps.json
+C:\Users\vitor\OneDrive\Documentos\my challenges\API de Gerenciamento de Tarefas\ApiGerenciamentoTarefas\Api.Domain\bin\Debug\net8.0\Api.Domain.dll
+C:\Users\vitor\OneDrive\Documentos\my challenges\API de Gerenciamento de Tarefas\ApiGerenciamentoTarefas\Api.Domain\bin\Debug\net8.0\Api.Domain.pdb
+C:\Users\vitor\OneDrive\Documentos\my challenges\API de Gerenciamento de Tarefas\ApiGerenciamentoTarefas\Api.Domain\bin\Debug\net8.0\Api.Constante.dll
+C:\Users\vitor\OneDrive\Documentos\my challenges\API de Gerenciamento de Tarefas\ApiGerenciamentoTarefas\Api.Domain\bin\Debug\net8.0\Api.Constante.pdb
+C:\Users\vitor\OneDrive\Documentos\my challenges\API de Gerenciamento de Tarefas\ApiGerenciamentoTarefas\Api.Domain\obj\Debug\net8.0\Api.Domain.csproj.AssemblyReference.cache
+C:\Users\vitor\OneDrive\Documentos\my challenges\API de Gerenciamento de Tarefas\ApiGerenciamentoTarefas\Api.Domain\obj\Debug\net8.0\Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Documentos\my challenges\API de Gerenciamento de Tarefas\ApiGerenciamentoTarefas\Api.Domain\obj\Debug\net8.0\Api.Domain.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Documentos\my challenges\API de Gerenciamento de Tarefas\ApiGerenciamentoTarefas\Api.Domain\obj\Debug\net8.0\Api.Domain.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Documentos\my challenges\API de Gerenciamento de Tarefas\ApiGerenciamentoTarefas\Api.Domain\obj\Debug\net8.0\Api.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Documentos\my challenges\API de Gerenciamento de Tarefas\ApiGerenciamentoTarefas\Api.Domain\obj\Debug\net8.0\Api.Domain.csproj.Up2Date
+C:\Users\vitor\OneDrive\Documentos\my challenges\API de Gerenciamento de Tarefas\ApiGerenciamentoTarefas\Api.Domain\obj\Debug\net8.0\Api.Domain.dll
+C:\Users\vitor\OneDrive\Documentos\my challenges\API de Gerenciamento de Tarefas\ApiGerenciamentoTarefas\Api.Domain\obj\Debug\net8.0\refint\Api.Domain.dll
+C:\Users\vitor\OneDrive\Documentos\my challenges\API de Gerenciamento de Tarefas\ApiGerenciamentoTarefas\Api.Domain\obj\Debug\net8.0\Api.Domain.pdb
+C:\Users\vitor\OneDrive\Documentos\my challenges\API de Gerenciamento de Tarefas\ApiGerenciamentoTarefas\Api.Domain\obj\Debug\net8.0\ref\Api.Domain.dll

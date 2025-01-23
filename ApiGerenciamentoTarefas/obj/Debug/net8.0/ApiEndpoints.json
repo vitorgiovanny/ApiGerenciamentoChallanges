@@ -1,0 +1,61 @@
+[
+  {
+    "ContainingType": "ApiGerenciamentoTarefas.Controllers.Auth.AuthController",
+    "Method": "Authenticar",
+    "RelativePath": "api/ola/Auth",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiGerenciamentoTarefas.Controllers.ToDo.TaskController",
+    "Method": "CreaterTask",
+    "RelativePath": "Task",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Api.Application.DTOs.CreaterTaskToDo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "Creater"
+  },
+  {
+    "ContainingType": "ApiGerenciamentoTarefas.Controllers.ToDo.TaskController",
+    "Method": "GetAllTask",
+    "RelativePath": "Task",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "EndpointName": "GetaAllTaskToDo"
+  },
+  {
+    "ContainingType": "ApiGerenciamentoTarefas.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ApiGerenciamentoTarefas.WeatherForecast, ApiGerenciamentoTarefas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

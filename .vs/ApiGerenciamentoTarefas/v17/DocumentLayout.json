@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vitor\\OneDrive\\Documentos\\my challenges\\API de Gerenciamento de Tarefas\\ApiGerenciamentoTarefas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{048EB89D-9A58-498B-935E-55EF31DABBE2}|Api.Infrastructure\\Api.Infrastructure.csproj|c:\\users\\vitor\\onedrive\\documentos\\my challenges\\api de gerenciamento de tarefas\\apigerenciamentotarefas\\api.infrastructure\\migrations\\20250118140436_updatemigration18012025.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048EB89D-9A58-498B-935E-55EF31DABBE2}|Api.Infrastructure\\Api.Infrastructure.csproj|solutionrelative:api.infrastructure\\migrations\\20250118140436_updatemigration18012025.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D545D5B-CC31-44A9-852F-E65C61023C81}|Api.Application\\Api.Application.csproj|c:\\users\\vitor\\onedrive\\documentos\\my challenges\\api de gerenciamento de tarefas\\apigerenciamentotarefas\\api.application\\service\\taskservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D545D5B-CC31-44A9-852F-E65C61023C81}|Api.Application\\Api.Application.csproj|solutionrelative:api.application\\service\\taskservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D545D5B-CC31-44A9-852F-E65C61023C81}|Api.Application\\Api.Application.csproj|c:\\users\\vitor\\onedrive\\documentos\\my challenges\\api de gerenciamento de tarefas\\apigerenciamentotarefas\\api.application\\interfaces\\services\\itaskservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D545D5B-CC31-44A9-852F-E65C61023C81}|Api.Application\\Api.Application.csproj|solutionrelative:api.application\\interfaces\\services\\itaskservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78223D98-961E-4B42-8AA8-1A7324DDE8D4}|Api.Constante\\Api.Constante.csproj|c:\\users\\vitor\\onedrive\\documentos\\my challenges\\api de gerenciamento de tarefas\\apigerenciamentotarefas\\api.constante\\entities\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78223D98-961E-4B42-8AA8-1A7324DDE8D4}|Api.Constante\\Api.Constante.csproj|solutionrelative:api.constante\\entities\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78223D98-961E-4B42-8AA8-1A7324DDE8D4}|Api.Constante\\Api.Constante.csproj|c:\\users\\vitor\\onedrive\\documentos\\my challenges\\api de gerenciamento de tarefas\\apigerenciamentotarefas\\api.constante\\entities\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78223D98-961E-4B42-8AA8-1A7324DDE8D4}|Api.Constante\\Api.Constante.csproj|solutionrelative:api.constante\\entities\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB26039-5CEA-4E82-8FCA-2638E79B12E5}|ApiGerenciamentoTarefas\\ApiGerenciamentoTarefas.csproj|c:\\users\\vitor\\onedrive\\documentos\\my challenges\\api de gerenciamento de tarefas\\apigerenciamentotarefas\\apigerenciamentotarefas\\controllers\\todo\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB26039-5CEA-4E82-8FCA-2638E79B12E5}|ApiGerenciamentoTarefas\\ApiGerenciamentoTarefas.csproj|solutionrelative:apigerenciamentotarefas\\controllers\\todo\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048EB89D-9A58-498B-935E-55EF31DABBE2}|Api.Infrastructure\\Api.Infrastructure.csproj|c:\\users\\vitor\\onedrive\\documentos\\my challenges\\api de gerenciamento de tarefas\\apigerenciamentotarefas\\api.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048EB89D-9A58-498B-935E-55EF31DABBE2}|Api.Infrastructure\\Api.Infrastructure.csproj|solutionrelative:api.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E8BA86-7509-4FD0-A6CE-869DD22D1625}|Api.Domain\\Api.Domain.csproj|c:\\users\\vitor\\onedrive\\documentos\\my challenges\\api de gerenciamento de tarefas\\apigerenciamentotarefas\\api.domain\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E8BA86-7509-4FD0-A6CE-869DD22D1625}|Api.Domain\\Api.Domain.csproj|solutionrelative:api.domain\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB26039-5CEA-4E82-8FCA-2638E79B12E5}|ApiGerenciamentoTarefas\\ApiGerenciamentoTarefas.csproj|c:\\users\\vitor\\onedrive\\documentos\\my challenges\\api de gerenciamento de tarefas\\apigerenciamentotarefas\\apigerenciamentotarefas\\viewmodel\\responsejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB26039-5CEA-4E82-8FCA-2638E79B12E5}|ApiGerenciamentoTarefas\\ApiGerenciamentoTarefas.csproj|solutionrelative:apigerenciamentotarefas\\viewmodel\\responsejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB26039-5CEA-4E82-8FCA-2638E79B12E5}|ApiGerenciamentoTarefas\\ApiGerenciamentoTarefas.csproj|c:\\users\\vitor\\onedrive\\documentos\\my challenges\\api de gerenciamento de tarefas\\apigerenciamentotarefas\\apigerenciamentotarefas\\controllers\\auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB26039-5CEA-4E82-8FCA-2638E79B12E5}|ApiGerenciamentoTarefas\\ApiGerenciamentoTarefas.csproj|solutionrelative:apigerenciamentotarefas\\controllers\\auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D545D5B-CC31-44A9-852F-E65C61023C81}|Api.Application\\Api.Application.csproj|c:\\users\\vitor\\onedrive\\documentos\\my challenges\\api de gerenciamento de tarefas\\apigerenciamentotarefas\\api.application\\dtos\\creatertasktodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D545D5B-CC31-44A9-852F-E65C61023C81}|Api.Application\\Api.Application.csproj|solutionrelative:api.application\\dtos\\creatertasktodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048EB89D-9A58-498B-935E-55EF31DABBE2}|Api.Infrastructure\\Api.Infrastructure.csproj|c:\\users\\vitor\\onedrive\\documentos\\my challenges\\api de gerenciamento de tarefas\\apigerenciamentotarefas\\api.infrastructure\\mapping\\tasktodomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048EB89D-9A58-498B-935E-55EF31DABBE2}|Api.Infrastructure\\Api.Infrastructure.csproj|solutionrelative:api.infrastructure\\mapping\\tasktodomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB26039-5CEA-4E82-8FCA-2638E79B12E5}|ApiGerenciamentoTarefas\\ApiGerenciamentoTarefas.csproj|c:\\users\\vitor\\onedrive\\documentos\\my challenges\\api de gerenciamento de tarefas\\apigerenciamentotarefas\\apigerenciamentotarefas\\apigerenciamentotarefas.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{DBB26039-5CEA-4E82-8FCA-2638E79B12E5}|ApiGerenciamentoTarefas\\ApiGerenciamentoTarefas.csproj|solutionrelative:apigerenciamentotarefas\\apigerenciamentotarefas.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250118140436_UpdateMigration18012025.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Documentos\\my challenges\\API de Gerenciamento de Tarefas\\ApiGerenciamentoTarefas\\Api.Infrastructure\\Migrations\\20250118140436_UpdateMigration18012025.cs",
+              "RelativeDocumentMoniker": "Api.Infrastructure\\Migrations\\20250118140436_UpdateMigration18012025.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Documentos\\my challenges\\API de Gerenciamento de Tarefas\\ApiGerenciamentoTarefas\\Api.Infrastructure\\Migrations\\20250118140436_UpdateMigration18012025.cs",
+              "RelativeToolTip": "Api.Infrastructure\\Migrations\\20250118140436_UpdateMigration18012025.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T14:04:37.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskStatus.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Documentos\\my challenges\\API de Gerenciamento de Tarefas\\ApiGerenciamentoTarefas\\Api.Constante\\Entities\\TaskStatus.cs",
+              "RelativeDocumentMoniker": "Api.Constante\\Entities\\TaskStatus.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Documentos\\my challenges\\API de Gerenciamento de Tarefas\\ApiGerenciamentoTarefas\\Api.Constante\\Entities\\TaskStatus.cs",
+              "RelativeToolTip": "Api.Constante\\Entities\\TaskStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T13:55:22.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskPriority.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Documentos\\my challenges\\API de Gerenciamento de Tarefas\\ApiGerenciamentoTarefas\\Api.Constante\\Entities\\TaskPriority.cs",
+              "RelativeDocumentMoniker": "Api.Constante\\Entities\\TaskPriority.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Documentos\\my challenges\\API de Gerenciamento de Tarefas\\ApiGerenciamentoTarefas\\Api.Constante\\Entities\\TaskPriority.cs",
+              "RelativeToolTip": "Api.Constante\\Entities\\TaskPriority.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T13:55:19.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Documentos\\my challenges\\API de Gerenciamento de Tarefas\\ApiGerenciamentoTarefas\\Api.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Api.Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Documentos\\my challenges\\API de Gerenciamento de Tarefas\\ApiGerenciamentoTarefas\\Api.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Api.Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T13:20:47.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITaskServices.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Documentos\\my challenges\\API de Gerenciamento de Tarefas\\ApiGerenciamentoTarefas\\Api.Application\\Interfaces\\Services\\ITaskServices.cs",
+              "RelativeDocumentMoniker": "Api.Application\\Interfaces\\Services\\ITaskServices.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Documentos\\my challenges\\API de Gerenciamento de Tarefas\\ApiGerenciamentoTarefas\\Api.Application\\Interfaces\\Services\\ITaskServices.cs",
+              "RelativeToolTip": "Api.Application\\Interfaces\\Services\\ITaskServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T13:15:48.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResponseJson.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Documentos\\my challenges\\API de Gerenciamento de Tarefas\\ApiGerenciamentoTarefas\\ApiGerenciamentoTarefas\\ViewModel\\ResponseJson.cs",
+              "RelativeDocumentMoniker": "ApiGerenciamentoTarefas\\ViewModel\\ResponseJson.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Documentos\\my challenges\\API de Gerenciamento de Tarefas\\ApiGerenciamentoTarefas\\ApiGerenciamentoTarefas\\ViewModel\\ResponseJson.cs",
+              "RelativeToolTip": "ApiGerenciamentoTarefas\\ViewModel\\ResponseJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T23:38:58.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskServices.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Documentos\\my challenges\\API de Gerenciamento de Tarefas\\ApiGerenciamentoTarefas\\Api.Application\\Service\\TaskServices.cs",
+              "RelativeDocumentMoniker": "Api.Application\\Service\\TaskServices.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Documentos\\my challenges\\API de Gerenciamento de Tarefas\\ApiGerenciamentoTarefas\\Api.Application\\Service\\TaskServices.cs",
+              "RelativeToolTip": "Api.Application\\Service\\TaskServices.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADgvyEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T23:05:15.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Documentos\\my challenges\\API de Gerenciamento de Tarefas\\ApiGerenciamentoTarefas\\ApiGerenciamentoTarefas\\Controllers\\ToDo\\TaskController.cs",
+              "RelativeDocumentMoniker": "ApiGerenciamentoTarefas\\Controllers\\ToDo\\TaskController.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Documentos\\my challenges\\API de Gerenciamento de Tarefas\\ApiGerenciamentoTarefas\\ApiGerenciamentoTarefas\\Controllers\\ToDo\\TaskController.cs",
+              "RelativeToolTip": "ApiGerenciamentoTarefas\\Controllers\\ToDo\\TaskController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:14:18.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Documentos\\my challenges\\API de Gerenciamento de Tarefas\\ApiGerenciamentoTarefas\\ApiGerenciamentoTarefas\\Controllers\\Auth\\AuthController.cs",
+              "RelativeDocumentMoniker": "ApiGerenciamentoTarefas\\Controllers\\Auth\\AuthController.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Documentos\\my challenges\\API de Gerenciamento de Tarefas\\ApiGerenciamentoTarefas\\ApiGerenciamentoTarefas\\Controllers\\Auth\\AuthController.cs",
+              "RelativeToolTip": "ApiGerenciamentoTarefas\\Controllers\\Auth\\AuthController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T23:56:11.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaskToDoMapping.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Documentos\\my challenges\\API de Gerenciamento de Tarefas\\ApiGerenciamentoTarefas\\Api.Infrastructure\\Mapping\\TaskToDoMapping.cs",
+              "RelativeDocumentMoniker": "Api.Infrastructure\\Mapping\\TaskToDoMapping.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Documentos\\my challenges\\API de Gerenciamento de Tarefas\\ApiGerenciamentoTarefas\\Api.Infrastructure\\Mapping\\TaskToDoMapping.cs",
+              "RelativeToolTip": "Api.Infrastructure\\Mapping\\TaskToDoMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T16:03:32.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreaterTaskToDo.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Documentos\\my challenges\\API de Gerenciamento de Tarefas\\ApiGerenciamentoTarefas\\Api.Application\\DTOs\\CreaterTaskToDo.cs",
+              "RelativeDocumentMoniker": "Api.Application\\DTOs\\CreaterTaskToDo.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Documentos\\my challenges\\API de Gerenciamento de Tarefas\\ApiGerenciamentoTarefas\\Api.Application\\DTOs\\CreaterTaskToDo.cs",
+              "RelativeToolTip": "Api.Application\\DTOs\\CreaterTaskToDo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T14:20:56.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Documentos\\my challenges\\API de Gerenciamento de Tarefas\\ApiGerenciamentoTarefas\\Api.Domain\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Api.Domain\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Documentos\\my challenges\\API de Gerenciamento de Tarefas\\ApiGerenciamentoTarefas\\Api.Domain\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Api.Domain\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T15:33:42.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApiGerenciamentoTarefas.http",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Documentos\\my challenges\\API de Gerenciamento de Tarefas\\ApiGerenciamentoTarefas\\ApiGerenciamentoTarefas\\ApiGerenciamentoTarefas.http",
+              "RelativeDocumentMoniker": "ApiGerenciamentoTarefas\\ApiGerenciamentoTarefas.http",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Documentos\\my challenges\\API de Gerenciamento de Tarefas\\ApiGerenciamentoTarefas\\ApiGerenciamentoTarefas\\ApiGerenciamentoTarefas.http",
+              "RelativeToolTip": "ApiGerenciamentoTarefas\\ApiGerenciamentoTarefas.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-21T15:54:21.062Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
