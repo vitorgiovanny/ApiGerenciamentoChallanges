@@ -6,7 +6,7 @@ using System.Text;
 
 namespace ApiGerenciamentoTarefas.Controllers.Auth
 {
-    [Route("api/ola")]
+    [Route("api/authenticator")]
     [ApiController]
     public class AuthController : ControllerBase
     {
@@ -20,26 +20,14 @@ namespace ApiGerenciamentoTarefas.Controllers.Auth
         [HttpGet("Auth")]
         public IActionResult Authenticar()
         {
-            return Ok(GenerateJwtToken("Ola mundo"));
+            return Ok(GenerateJwtToken("AnythingNames"));
         }
 
-        private string GenerateJwtToken(string username)
+        private string GenerateJwtToken(string anything)
         {
-            //var tokenHandler = new JwtSecurityTokenHandler();
-            //var key = Encoding.ASCII.GetBytes(_key);
-            //var tokenDescriptor = new SecurityTokenDescriptor
-            //{
-            //    Subject = new ClaimsIdentity(new Claim[] { new Claim(ClaimTypes.Name, username) }),
-            //    Expires = DateTime.UtcNow.AddHours(1),
-            //    SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature)
-            //};
-
-            //var token = tokenHandler.CreateToken(tokenDescriptor);
-            //return tokenHandler.WriteToken(token);
-
-            var claims = new[]
+          var claims = new[]
           {
-                new Claim(ClaimTypes.Name,username),
+                new Claim(ClaimTypes.Name,anything),
                 new Claim("meuValor", "oque voce quiser"),
                 new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
             };

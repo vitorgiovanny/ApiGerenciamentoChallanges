@@ -55,11 +55,11 @@ namespace ApiGerenciamentoTarefas.Controllers.ToDo
 
         [Authorize()]
         [HttpPut("removerTask")]
-        public async Task<IActionResult> RemoveTask([FromQuery] int id)
+        public async Task<IActionResult> RemoveTask([FromBody] TaskToDo dto)
         {
             try
             {
-                var response = await _services.Update(new TaskToDo(){Id = id, UpdateDate = DateTime.UtcNow, Status = TaskToDoStatus.Removed});
+                var response = await _services.Update(dto);
                 return Ok(new {Message = "Task Removed", response});
             }
             catch (Exception ex)
