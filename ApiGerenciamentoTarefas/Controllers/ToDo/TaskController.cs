@@ -66,7 +66,14 @@ namespace ApiGerenciamentoTarefas.Controllers.ToDo
             {
                 return BadRequest(ex.Message);
             }
-        }   
+        }
+
+        [Authorize()]
+        [HttpPost("addTaskByFile")]
+        public async Task<IActionResult> UpdateByFile(IFormFile file)
+        {
+            return Ok();
+        }
 
     }
 }
